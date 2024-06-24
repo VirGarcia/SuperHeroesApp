@@ -1,4 +1,8 @@
 package com.example.superheroesapp.data
 
-class SuperheroResponse {
+import com.google.gson.annotations.SerializedName
+
+data class SuperheroResponse (
+    @SerializedName("name") val name: String
+) {
 }
