@@ -26,7 +26,9 @@
                 android:layout_height="wrap_content"
                 android:text="SUPERMAN"
                 android:textSize="24sp"
-                android:textAlignment="center"/>
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:background="@color/transparent_grey"/>
         </FrameLayout>
 
     </androidx.cardview.widget.CardView>
