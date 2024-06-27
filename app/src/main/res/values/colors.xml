@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="favorite">#B50541</color>
     <color name="transparent_grey">#808B8B8B</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="blue">#A8DDF4</color>
 </resources>
